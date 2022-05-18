@@ -6,8 +6,8 @@ class Boneco {
   
   constructor(x, w) {
     this.x = x;
-    this.w = w;
-    this.h = 10;
+    this.w = 150;
+    this.h = 150;
     this.y = height - this.h;
   }
 
@@ -24,6 +24,6 @@ class Boneco {
     imageMode(CENTER);
     image(Boneco.image,this.x,this.y,this.w,this.h) 
     pop()
-//rect(this.x, this.y, this.w, this.h);
+
   }
 }
