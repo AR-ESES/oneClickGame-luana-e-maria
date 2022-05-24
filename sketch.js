@@ -122,3 +122,4 @@ return function(){
   let scoreString = encodeURIComponent("Eu apanhei: "+digits+" notas!");
 
 }
+}
