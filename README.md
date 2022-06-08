@@ -8,3 +8,5 @@ Ao jogar este jogo, as crianças desenvolvem as suas capacidades matemáticas e 
 
 
 Merchandising: https://drive.google.com/drive/folders/1Hk-Nnv1mdcnAECZrLrMoNEoMaLCf9R7V?usp=sharing
+Vídeo Promocional: https://youtu.be/bKYjznXKAgg
+Maquete do jogo: https://youtu.be/373d-41oosg
