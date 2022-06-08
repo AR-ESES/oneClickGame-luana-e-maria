@@ -6,3 +6,5 @@ Para o código usámos o tutorial do youtube "Coding Challenge 169: Pi in the Sk
 
 Ao jogar este jogo, as crianças desenvolvem as suas capacidades matemáticas e divertem-se ao mesmo tempo.
 
+
+Merchandising: https://drive.google.com/drive/folders/1Hk-Nnv1mdcnAECZrLrMoNEoMaLCf9R7V?usp=sharing
