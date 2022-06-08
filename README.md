@@ -12,3 +12,5 @@ Merchandising: https://drive.google.com/drive/folders/1Hk-Nnv1mdcnAECZrLrMoNEoMa
 Vídeo Promocional: https://youtu.be/bKYjznXKAgg
 
 Maquete do jogo: https://youtu.be/373d-41oosg
+
+Níveis: https://drive.google.com/drive/folders/1Cv5AscHtrPeA4yz0iY6gOtxNOhEWIf5I?usp=sharing
